@@ -1,0 +1,118 @@
+[data-color-index="0"] path {
+    stroke: #452654;
+}
+[data-color-index="0"] path {
+    fill: #452654;
+}
+[data-color-index="0"] circle {
+    stroke: #452654;
+    stroke-width: 6px;
+    fill: #452654;
+}
+.color-index-0 {
+    fill: #452654;
+}
+rect.color-index-0 {
+    fill: #452654;
+}
+path.color-index-0 {
+    stroke: #452654;
+}
+path.color-index-0 {
+    stroke: #452654;
+}
+circle.color-index-0 {
+    fill: #452654;
+}
+rect[data-color-index="0"] {
+    fill: #452654;
+}
+text[data-color-index="0"] {
+    fill: #452654;
+}
+g.axis.color-index-0 text {
+    fill: #452654;
+}
+.cb-colorpicker-color-0 {
+    background-color: #452654;
+}
+.series-label-0 {
+    color: #452654;
+}
+.series-label-input-0 {
+    border-bottom: 2px solid #452654;
+}
+.series-label-input-0: hover,
+.series-label-input-0: focus {
+    border: none;
+    border-bottom: 4px solid #454545;
+}
+.series-label-input-0 input {
+    color: #452654;
+}
+.cb-toggle.toggled.toggle-0 .cb-toggle-container {
+    background-color: #452654;
+}
+[data-color-index="1"] path {
+    stroke: #254543;
+}
+[data-color-index="1"] rect {
+    stroke: #254543;
+}
+[data-color-index="1"] circle {
+   stroke: #254543;
+   stroke-width: 4px;
+   fill: #452654;
+}
+.color-index-1 {
+    fill: #452654;
+}
+rect.color-index-1 {
+    fill: #452654;
+}
+path.color-index-1 {
+    stroke: #452654;
+}
+circle.color-index-1 {
+    stroke: #452654;
+}
+rect[data-color-index="1"] {
+    fill: #452654;
+}
+text[data-color-index="1"] {
+    fill: #452654;
+}
+g.axis.color-index-1 text {
+    fill: #254543;
+}
+.cb-colorpicker-color-1 {
+    background-color: aqua;
+}
+.series-label-1 {
+    color: #blue;
+}
+.series-label-input-1 {
+    border-bottom: 2px solid #254543;
+}
+.series-label-input-1: hover,
+.series-label-input-1: focus {
+    border: none;
+    border-bottom: 2px solid #aqua; 
+}
+.series-label-input-1 input {
+    color: #254543;
+}
+.cb-toggle.toggled.toggle-1 .cb-toggle-container {
+    background-color: : #green;
+}
+[data-color-index="2"] path {
+    stroke: darkred;
+}
+[data-color-index="2"] rect {
+    stroke: darkred;
+}
+[data-color-index="2"] circle {
+    stroke: green;
+    stroke-width: 4px;
+    fill: green;
+}
