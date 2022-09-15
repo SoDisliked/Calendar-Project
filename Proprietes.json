@@ -1,0 +1,52 @@
+{
+    "chartProps": {
+        "échelle": {
+            "échellePrimaire": {
+                "épaisseur": 5,
+                "précision": 0,
+                "préfixe": "rdv",
+                "suffixe": "date de rdv",
+                "domaine" [
+                    30,
+                    150
+                ],
+                "custom": false,
+                "tickValues": [
+                    30,
+                    60,
+                    90,
+                    120,
+                    150
+                ],
+                "indexCouleur": null
+            },
+            "hasDate": true,
+            "paramètresDate": {
+                "fréquenceMoyenneDate": "auto",
+                "formatDate": "auto"
+            }
+        },
+        "data": [
+            {
+                "nom": "X",
+                "valeurs": [
+                    {
+                        "nom": "X",
+                        "dateRDV": "20-09-2022",
+                        "valeur": 1
+                    },
+                    {
+                        "nom": "Y",
+                        "dateRDV": "21-09-2022",
+                        "valeur": 2
+                    },
+                    {
+                        "nom": "Z",
+                        "dateRDV": "22-09-2022",
+                        "valeur": 2
+                    },
+                ]
+            }
+        ]
+    }
+}

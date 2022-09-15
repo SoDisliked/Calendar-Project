@@ -1,0 +1,14 @@
+{
+    "nom": "LogicielRDVAutoEcole",
+    "version": "1.0.0",
+    "description": "Logiciel qui permet de programmer en avance et organiser des rdv pour des séances d'auto-école."
+    "main": "src/js/index.js",
+    "auteur": "Luca Frumuselu(SoDisliked)",
+    "contributeur": [
+        {
+            "nom": "Luca Frumuselu",
+            "email": "lucalucian.frumuselu@gmail.com"
+        },
+        "licence": "MIT",
+    ]
+}
